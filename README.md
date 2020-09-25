@@ -1,0 +1,2 @@
+# PrintMemorise
+detail
